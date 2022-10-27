@@ -1,0 +1,15 @@
+/Users/wojciechszyjka/RiderProjects/uni/uni/bin/Debug/net6.0/uni
+/Users/wojciechszyjka/RiderProjects/uni/uni/bin/Debug/net6.0/uni.deps.json
+/Users/wojciechszyjka/RiderProjects/uni/uni/bin/Debug/net6.0/uni.runtimeconfig.json
+/Users/wojciechszyjka/RiderProjects/uni/uni/bin/Debug/net6.0/uni.dll
+/Users/wojciechszyjka/RiderProjects/uni/uni/bin/Debug/net6.0/uni.pdb
+/Users/wojciechszyjka/RiderProjects/uni/uni/obj/Debug/net6.0/uni.csproj.AssemblyReference.cache
+/Users/wojciechszyjka/RiderProjects/uni/uni/obj/Debug/net6.0/uni.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wojciechszyjka/RiderProjects/uni/uni/obj/Debug/net6.0/uni.AssemblyInfoInputs.cache
+/Users/wojciechszyjka/RiderProjects/uni/uni/obj/Debug/net6.0/uni.AssemblyInfo.cs
+/Users/wojciechszyjka/RiderProjects/uni/uni/obj/Debug/net6.0/uni.csproj.CoreCompileInputs.cache
+/Users/wojciechszyjka/RiderProjects/uni/uni/obj/Debug/net6.0/uni.dll
+/Users/wojciechszyjka/RiderProjects/uni/uni/obj/Debug/net6.0/refint/uni.dll
+/Users/wojciechszyjka/RiderProjects/uni/uni/obj/Debug/net6.0/uni.pdb
+/Users/wojciechszyjka/RiderProjects/uni/uni/obj/Debug/net6.0/uni.genruntimeconfig.cache
+/Users/wojciechszyjka/RiderProjects/uni/uni/obj/Debug/net6.0/ref/uni.dll

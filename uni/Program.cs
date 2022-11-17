@@ -24,6 +24,7 @@ namespace Tictactoe
 
                 if (nextIsPlayer1)
                 {
+                    
                     nextIsPlayer1 = false;
                 }
                 else
@@ -35,6 +36,19 @@ namespace Tictactoe
                 {
                     break;
                 }
+                Draw(gameBoard);
+            }
+        }
+
+        static void Draw(char[,] gameBoard)
+        {
+            for (int i = 0; i < gameBoard.GetLength(0); i++)
+            {
+                for (int j = 0; j < gameBoard.GetLength(1); j++)
+                {
+                    Console.Write(gameBoard[i,j] + " ");
+                }
+                Console.WriteLine();
             }
         }
     }
